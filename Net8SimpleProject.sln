@@ -3,7 +3,7 @@ Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio Version 17
 VisualStudioVersion = 17.13.35825.156
 MinimumVisualStudioVersion = 10.0.40219.1
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "WebApplication1", "..\Net8Project\WebApplication1\WebApplication1.csproj", "{28A19088-44FF-4525-A206-749F372D5902}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Net8SimpleProject", "..\Net8Project\WebApplication1\Net8SimpleProject.csproj", "{28A19088-44FF-4525-A206-749F372D5902}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
